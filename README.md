@@ -15,8 +15,8 @@ Overview of Findings: <br>
 - The average attendance was 10 to 13 days out of 26 days.<br>
 - The on-site accidental cases was on the rise which can be contributed to either lack of training or behavioural issues on the working site.<br>
 - Since the recording system was in manual way (maintain Register) and the contract was collaborative between companies, there were errors and hence lack of accountability<br>
-- Overview of Individual employee performance(https://github.com/ankittotti/Imperial-HR-dashboard/blob/main/Individual%20performance.png)
-
+- Overview of Individual employee performance:<br>(https://github.com/ankittotti/Imperial-HR-dashboard/blob/main/Individual%20performance.png)
+- Iverview of employee performance relative to its team:<br>(https://github.com/ankittotti/Imperial-HR-dashboard/blob/main/team%20performance.png)
 
 
 **Conclusions**<br>
