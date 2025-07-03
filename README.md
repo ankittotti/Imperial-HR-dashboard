@@ -5,8 +5,8 @@
 in recent times, there has been lot of onsite accidents and attendance issues which companies are finding hard to trace due to following of traditional register based tracking method<br>
 
 Insights are provided into following key areas:<br>
-Individual employee analysis: this segment is sub-divided into various categories and focuses on individual employee's performance<br>
-Team performance analysis: every team member preformance is analysed relative to other team member and with threshold standards set by the companies<br>
+- Individual employee analysis: this segment is sub-divided into various categories and focuses on individual employee's performance<br>
+- Team performance analysis: every team member preformance is analysed relative to other team member and with threshold standards set by the companies<br>
 
 
 **Executive Summary**<br>
