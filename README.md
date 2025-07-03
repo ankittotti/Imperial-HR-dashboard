@@ -2,14 +2,14 @@
 **#Background and Overview**<br>
 Laxmi Narayan Enterprises, Shiv Dutta Enterprises, R J Enterprises and New India Engineering works - these companies are part of sub-contract within a steel company premises. The contract is related to creating a infrstrucure required by the steel company
 all these companies have collaborated and provided with employees who holds expretise in various fields like plumbing, electrician, metal cuting etc…
-in recent times, there has been lot of onsite accidents and attendance issues which companies are finding hard to trace due to following of traditional register based tracking method
+in recent times, there has been lot of onsite accidents and attendance issues which companies are finding hard to trace due to following of traditional register based tracking method<br>
 
 Insights are provided into following key areas:
 Individual employee analysis: this segment is sub-divided into various categories and focuses on individual employee's performance
 Team performance analysis: every team member preformance is analysed relative to other team member and with threshold standards set by the companies
 
 
-Executive Summary
+**#Executive Summary**
 Overview of Findings
 Individual parameters of employees like Attendance, on-time delivery and training sessions attendance for employees was low from January 2024 onwards
 The average attendance was 10 to 13 days out of 26 days.
@@ -19,7 +19,7 @@ Since the recording system was in manual way (maintain Register) and the contrac
 
 
 
-Conclusions
+**#Conclusions**
 1. we created a disciplined system gradually were attenance and other parameters is kept in excel sheet
 2. created dashboard which tracks employees preformance individually and even on the team basis
 3. minimum threshold limits are set to evaluate performance with consultation of all the 4 companies
@@ -29,7 +29,7 @@ Conclusions
 7. behavioural issues are taken on top priority and punitive actions were decided based on the severity and repetativeness
 
 
-Results
+**#Results**
 All the above steps started showing results from january 2025 onwards. Now the project is on time with all the other parameters set in the right direction
 Individual employee parameters like attendance, on time delivery and training sessions attednance has increased from 38% to 80%
 Employees on-site accidents and disciplinary warnings have reduced from 20 on average to single digits
